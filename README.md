@@ -7,7 +7,7 @@ Computer science student with interests in software development, data structures
 ## Projects
 
 ### Simple Search Engine
-[Repository Link](https://github.com/amberli/simple-search-engine)  
+[Repository Link](https://github.com/AmberErinLi/simple-search-engine)  
 A Java-based search engine that indexes and ranks books using an inverted index.  
 Demonstrates object-oriented design, data structures, and search algorithm implementation.
 
