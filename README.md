@@ -18,3 +18,7 @@ A Java project implementing a variety of classical ciphers, including **Caesar (
 ### Connect Four
 [Repository Link](https://github.com/AmberErinLi/connect-four)  
 Java implementation of a Connect Four strategy game built on an abstract strategy game framework. Demonstrates object-oriented design, abstract classes, and game logic including move validation, win/tie detection, and console-based gameplay.
+
+### Mini-Git
+[Repository Link](https://github.com/AmberErinLi/mini-git)  
+Developed a simplified Git-like version control system in Java, supporting commits, history tracking, dropping commits, and repository synchronization. Practiced object-oriented design, linked data structures, and console-based application development.
