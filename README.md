@@ -22,3 +22,7 @@ Java implementation of a Connect Four strategy game built on an abstract strateg
 ### Mini-Git
 [Repository Link](https://github.com/AmberErinLi/mini-git)  
 Developed a simplified Git-like version control system in Java, supporting commits, history tracking, dropping commits, and repository synchronization. Practiced object-oriented design, linked data structures, and console-based application development.
+
+### Mondrian-Art
+[Repository Link](https://github.com/AmberErinLi/mondrian-art)  
+Java-based generative art program inspired by Piet Mondrian. Uses recursive subdivision, randomized geometry, and color rules to generate unique abstract compositions in the Mondrian style. Supports both classic rectangular compositions and complex variants incorporating circular shapes. Demonstrates algorithmic art generation, Java graphics programming, and object-oriented design.
