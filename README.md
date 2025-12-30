@@ -30,3 +30,7 @@ Java-based generative art program inspired by Piet Mondrian. Uses recursive subd
 ### Spam Classifier
 [Repository Link](https://github.com/AmberErinLi/spam-classifier)  
 Java-based classification tree (decision tree) that predicts whether a message is Spam or Ham based on text features. Demonstrates foundations of machine learning, including training, prediction, evaluation, and model serialization — all implemented from scratch without ML libraries.
+
+### Collection Manager
+[Repository Link](https://github.com/AmberErinLi/collection-manager)  
+Java-based collection manager that uses a recursive Binary Search Tree to store and sort custom GolfBall objects, featuring file I/O, Comparable-based ordering, and a color filter extension.
