@@ -34,3 +34,7 @@ Java-based classification tree (decision tree) that predicts whether a message i
 ### Collection Manager
 [Repository Link](https://github.com/AmberErinLi/collection-manager)  
 Java-based collection manager that uses a recursive Binary Search Tree to store and sort custom GolfBall objects, featuring file I/O, Comparable-based ordering, and a color filter extension.
+
+### Absurdle
+[Repository Link](https://github.com/AmberErinLi/absurdle) 
+Absurdle is an adversarial Wordle variant where the game never picks a secret word up front. For each guess, it chooses the feedback pattern that leaves the largest possible set of remaining words, breaking ties alphabetically. The game ends only when one word remains.
