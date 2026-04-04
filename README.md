@@ -38,3 +38,7 @@ Java-based collection manager that uses a recursive Binary Search Tree to store 
 ### Absurdle
 [Repository Link](https://github.com/AmberErinLi/absurdle) 
 Absurdle is an adversarial Wordle variant where the game never picks a secret word up front. For each guess, it chooses the feedback pattern that leaves the largest possible set of remaining words, breaking ties alphabetically. The game ends only when one word remains.
+
+### Workout Tracker
+[Repository Link](https://github.com/AmberErinLi/workout-tracker) 
+Full-stack workout tracking app built with Java (SpringBoot) and JavaScript, featuring interactive data visualizations, PR tracking, linear regression machine learning for performance prediction, and a recommendation system to suggest future workouts based on user progress.
