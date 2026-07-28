@@ -41,4 +41,4 @@ Absurdle is an adversarial Wordle variant where the game never picks a secret wo
 
 ### Workout Tracker
 [Repository Link](https://github.com/AmberErinLi/workout-tracker) 
-Full-stack workout tracking app built with Java (SpringBoot) and JavaScript, featuring interactive data visualizations, PR tracking, linear regression machine learning for performance prediction, and a recommendation system to suggest future workouts based on user progress.
+Full-stack workout tracking app built with Java (Spring Boot) and JavaScript, featuring interactive data visualizations, PR tracking, linear regression machine learning for performance prediction, and a recommendation system to suggest future workouts based on user progress.
